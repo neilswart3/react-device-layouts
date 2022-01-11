@@ -45,6 +45,10 @@
     "mobile",
     "mockup"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neilswart3/react-device-layouts"
+  },
   "module": "dist/react-device-layouts.esm.js",
   "size-limit": [
     {
