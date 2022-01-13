@@ -1,6 +1,6 @@
 import styled from '@emotion/styled'
 import { rgba } from 'polished'
-import { colors, dimensionSpace } from './helpers'
+import { colors, dimensionSpace } from 'src/utils'
 
 export const PhoneLayout = styled.div`
   background: linear-gradient(

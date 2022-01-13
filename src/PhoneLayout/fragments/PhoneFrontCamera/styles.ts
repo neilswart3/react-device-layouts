@@ -1,6 +1,6 @@
 import styled from '@emotion/styled'
 import { rgba } from 'polished'
-import { colors } from '../../helpers'
+import { colors } from 'src/utils'
 
 export const PhoneFrontCamera = styled.div`
   position: absolute;
