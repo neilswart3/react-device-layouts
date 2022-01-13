@@ -41,6 +41,7 @@
   },
   "name": "react-device-layouts",
   "author": "neilswart3",
+  "description": "A little library with device mockups for your web projects",
   "keywords": [
     "react",
     "devices",
