@@ -12,7 +12,6 @@ const PhoneLayout: React.FC<Props> = (props) => {
 
   return (
     <Styled.PhoneLayout className={className}>
-      <div>bla</div>
       <Styled.PhoneFrame className='PhoneFrame'>
         <Styled.PhoneFrameInner className='PhoneFrameInner'>
           <ShineWrapper>
