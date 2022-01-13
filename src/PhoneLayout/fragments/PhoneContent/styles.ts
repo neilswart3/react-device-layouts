@@ -1,5 +1,5 @@
 import styled from '@emotion/styled'
-import { colors, dimensionSpace } from 'src/utils'
+import { colors, dimensionSpace } from '../../../utils'
 
 export const PhoneContentWrapper = styled.div`
   padding: 0 3.668%;
