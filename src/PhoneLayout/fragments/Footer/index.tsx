@@ -1,3 +1,4 @@
+import React from 'react'
 import { HomeButton } from '..'
 import * as Styled from './styles'
 

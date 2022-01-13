@@ -1,3 +1,4 @@
+import React from 'react'
 import { PhoneSpeaker } from '..'
 import * as Styled from './styles'
 

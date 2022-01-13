@@ -1,3 +1,4 @@
+import React from 'react'
 import { PhoneFrontCamera } from '..'
 import * as Styled from './styles'
 
